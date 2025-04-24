@@ -88,7 +88,7 @@ class TechnicalTest {
     () {
       // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data int dan beri nilai -555
       // >>> Tulis jawabanmu di bawah ini
-
+      int output = -555;
       // --- End of Answer ---
 
       return output is int && output == -555;
