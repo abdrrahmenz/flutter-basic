@@ -7,7 +7,7 @@ class TechnicalTest {
     () {
       // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data int dan beri nilai 10
       // >>> Tulis jawabanmu di bawah ini
-      int output = 3;
+      int output = 10;
       // --- End of Answer ---
 
       return output == 10;
