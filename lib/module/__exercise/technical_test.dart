@@ -16,7 +16,7 @@ class TechnicalTest {
     () {
       // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data int dan beri nilai 42
       // >>> Tulis jawabanmu di bawah ini
-
+      int output = 42;
       // --- End of Answer ---
 
       return output is int && output == 42;
@@ -25,7 +25,7 @@ class TechnicalTest {
     () {
       // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data int dan beri nilai -7
       // >>> Tulis jawabanmu di bawah ini
-
+      int output = -7;
       // --- End of Answer ---
 
       return output is int && output == -7;
