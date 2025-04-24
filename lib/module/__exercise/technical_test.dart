@@ -55,7 +55,7 @@ class TechnicalTest {
 
       // --- End of Answer ---
 
-      return output is int && output == -12345;
+      return output is int && output == -13579;
     },
     // Exercise 7
     () {
