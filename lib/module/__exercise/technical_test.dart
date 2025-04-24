@@ -19,7 +19,7 @@ class TechnicalTest {
 
       // --- End of Answer ---
 
-      return output is int && output == 42;
+      return output is int && output == 50;
     },
     // Exercise 3
     () {
@@ -37,7 +37,7 @@ class TechnicalTest {
 
       // --- End of Answer ---
 
-      return output is int && output == 0;
+      return output is int && output == 99;
     },
     // Exercise 5
     () {
@@ -55,7 +55,7 @@ class TechnicalTest {
 
       // --- End of Answer ---
 
-      return output is int && output == -12345;
+      return output is int && output == -13579;
     },
     // Exercise 7
     () {
